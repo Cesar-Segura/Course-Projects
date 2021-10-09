@@ -1,5 +1,5 @@
 # Course-Projects
-Contains the best projects I worked on in CPSC 112 
+Contains a couple of the projects I worked on in CPSC 112 
 
 There are two separate projects in this repository:
 
